@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name Kamal Nayan.<br>I am a data analytics student passionate about transforming complex datasets into actionable insights. Skilled in Python, R, SQL, and Excel, with experience in Tableau and Power BI, I enjoy building analytics projects that showcase patterns and trends in real-world data. I have worked on predictive models for customer retention and interactive dashboards for sales analytics. I’m eager to learn more about machine learning and contribute to projects that drive data-informed decisions. Outside of data, I enjoy solving logic puzzles and experimenting with new technologies.<br>I'm currently College Student.<br>I'm currently pursing B.Tech IT.<br>
+My Name Kamal Nayan.<br>I am a data analytics student passionate about transforming complex datasets into actionable insights. Skilled in Python, R, SQL, and Excel, with experience in Tableau and Power BI, I enjoy building analytics projects that showcase patterns and trends in real-world data. I have worked on predictive models for customer retention and interactive dashboards for sales analytics. I’m eager to learn more about machine learning and contribute to projects that drive data-informed decisions. Outside of data, I enjoy solving logic puzzles and experimenting with new technologies.
 
 
 ## 🌐 Socials:
